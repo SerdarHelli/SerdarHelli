@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello (Hello Hello Hello)
+### Is there anybody in there?
+### Just nod if you can hear me
+
+I graduated from Yeditepe University as a biomedical engineer. I am currently Master Degree's student on Data Science and i am working as Arge Software Engineer. 
+
+
 
 <!--
 **SerdarHelli/SerdarHelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
