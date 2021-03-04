@@ -1,7 +1,7 @@
 ### Hello , Is there anybody in there?
 
 
-I graduated from Yeditepe University as a biomedical engineer. I am currently a Master's degree student in Data Science and I am working as Arge Software .
+I graduated from Yeditepe University as a biomedical engineer. I am currently a Master's degree student in Data Science and I am working as Arge Software Engineer .
 
 
 
