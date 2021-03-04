@@ -1,8 +1,7 @@
-### Hello (Hello Hello Hello)
-### Is there anybody in there?
-### Just nod if you can hear me
+### Hello , Is there anybody in there?
 
-I graduated from Yeditepe University as a biomedical engineer. I am currently Master Degree's student on Data Science and i am working as Arge Software Engineer. 
+
+I graduated from Yeditepe University as a biomedical engineer. I am currently a Master's degree student in Data Science and I am working as Arge Software .
 
 
 
