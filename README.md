@@ -1,21 +1,23 @@
-### Hello , Is there anybody in there?
+
+<h1 align="center">Hi 👋, I'm S.Serdar Helli</h1>
+<h3 align="center">I'm S.Serdar Helli. I graduated from Yeditepe University as a biomedical engineer. I am currently a Master's degree student in Data Science and I am working as Arge Software Engineer at  a consultant company.
+</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SerdarHelli" alt="akhilgkrishnan" /> </p>
+
+[![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg)](https://www.linkedin.com/in/selahattin-serdar-helli-85bb201a3/)
+[![instagram](https://img.shields.io/badge/instagram-%23E4405F.svg)](https://www.instagram.com/serdarhelli/)
+[![twitter](https://img.shields.io/twitter/follow/epitaph145?style=social)](https://twitter.com/epitaph145)
 
 
-I graduated from Yeditepe University as a biomedical engineer. I am currently a Master's degree student in Data Science and I am working as Arge Software Engineer at  a consultant company.
+![SerdarHelli's GitHub stats](https://github-readme-stats.vercel.app/api?username=SerdarHelli&hide=contribs,prs)
+
+
+- 🎓 I am currently a Master's degree student in Data Science 
+- 🔭 I’m currently working on AI - Deep Learning , Image Processing   and Web Applications 
+- 🌱 I’m currently learning:  Deep Learning
+- 💬 Ask me about AI! 🐍
+- 👨‍💻 All of my projects and my papers are available at https://serdarhelli.github.io/
+- 📫 How to reach me **s.serdarhelli@gmail.com**
 
 
 
-<!--
-**SerdarHelli/SerdarHelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
