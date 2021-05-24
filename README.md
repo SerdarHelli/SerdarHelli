@@ -16,7 +16,7 @@
 - 🔭 I’m currently working on AI - Deep Learning , Image Processing   and Web Applications 
 - 🌱 I’m currently learning:  Deep Learning
 - 💬 Ask me about AI! 🐍
-- 👨‍💻 All of my projects and my papers are available at https://serdarhelli.github.io/
+- 👨‍💻 All of my projects and my papers are available at **https://serdarhelli.github.io/**
 - 📫 How to reach me **s.serdarhelli@gmail.com**
 
 
