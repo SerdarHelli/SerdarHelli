@@ -5,8 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SerdarHelli" alt="akhilgkrishnan" /> </p>
 
 [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg)](https://www.linkedin.com/in/selahattin-serdar-helli-85bb201a3/)
-[![instagram](https://img.shields.io/badge/instagram-%23E4405F.svg)](https://www.instagram.com/serdarhelli/)
-[![twitter](https://img.shields.io/twitter/follow/epitaph145?style=social)](https://twitter.com/epitaph145)
+
 
 
 ![SerdarHelli's GitHub stats](https://github-readme-stats.vercel.app/api?username=SerdarHelli&hide=contribs,prs)
