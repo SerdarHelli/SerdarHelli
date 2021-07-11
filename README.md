@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm S.Serdar Helli</h1>
-<h3 align="center">I'm S.Serdar Helli. I graduated from Yeditepe University as a biomedical engineer. I am currently a Master's degree student in Data Science and I am working as Arge Software Engineer at  a consultant company.
+<h3 align="center">I'm S.Serdar Helli. I graduated from Yeditepe University as a biomedical engineer. I am currently a Master's degree student in Data Science.
 </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SerdarHelli" alt="akhilgkrishnan" /> </p>
 
