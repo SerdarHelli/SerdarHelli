@@ -16,6 +16,5 @@
 - 💬 Ask me about AI! 🐍
 - 👨‍💻 All of my projects and my papers are available at **https://serdarhelli.github.io/**
 - 📫 How to reach me **s.serdarhelli@gmail.com**
-
-
+- 🧑‍🚀 Don't forget your stars !
 
