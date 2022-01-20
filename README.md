@@ -14,7 +14,7 @@
 - 🎓 I am currently a Master's degree student in Data Science 
 - 🔭 I’m currently working on AI - Deep Learning , Image Processing   and Web Applications 
 - 💬 Ask me about AI! 🐍
-- 👨‍💻 All of my projects and my papers are available at **https://serdarhelli.github.io/**
+- 👨‍💻 All of my projects and my papers are available at **https://serdarhelli.github.io/** and **https://linktr.ee/SerdarHelli**
 - 📫 How to reach me **s.serdarhelli@gmail.com**
 - 🧑‍🚀 Don't forget your stars !
 
