@@ -20,6 +20,8 @@
 - 📫 How to reach me **s.serdarhelli@gmail.com**
 - 🧑‍🚀 Don't forget your stars !
 
+<br/>
+
 <p align="center">   <img src="https://readme-typing-svg.herokuapp.com/?lines=See+You+Space+Cowboy+.+.+." alt="animated" /> </p>
 
 <br/>
