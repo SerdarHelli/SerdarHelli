@@ -1,7 +1,7 @@
 <a align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+!+I'm+S.Serdar+Helli)](https://git.io/typing-svg) </a>
 
 <h1 align="center">Hi 👋, I'm S.Serdar Helli</h1>
-<h3 align="center"> I graduated from Yeditepe University as a biomedical engineer. I am currently a Master's degree student in Data Science. My research interests are AI, Medical Image Processing ,Computer Vision .
+<h3 align="center"> I graduated from Yeditepe University as a biomedical engineer. I am AI Engineer and  currently a Master's degree student in Data Science. My research interests are AI, Medical Image Processing ,Computer Vision .
 </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SerdarHelli" alt="akhilgkrishnan" /> </p>
 
