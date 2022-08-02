@@ -1,6 +1,5 @@
-<a align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+!+I'm+S.Serdar+Helli)](https://git.io/typing-svg) </a>
+<p align="center">   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+!+I'm+S.Serdar+Helli" alt="animated" /> </p>
 
-<h1 align="center">Hi 👋, I'm S.Serdar Helli</h1>
 <h3 align="center"> I graduated from Yeditepe University as a biomedical engineer. I am AI Engineer and  currently a Master's degree student in Data Science. My research interests are AI, Medical Image Processing ,Computer Vision .
 </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SerdarHelli" alt="akhilgkrishnan" /> </p>
@@ -19,3 +18,9 @@
 - 📫 How to reach me **s.serdarhelli@gmail.com**
 - 🧑‍🚀 Don't forget your stars !
 
+<p align="center">   <img src="https://readme-typing-svg.herokuapp.com/?lines=See+You+Space+Cowboy+.+.+." alt="animated" /> </p>
+
+<br/>
+ <p align="center">
+  <img src="https://github.com/SerdarHelli/SerdarHelli/blob/main/see-you-space-cowboy-cowboy-bebop.gif" alt="animated" />
+ </p>
