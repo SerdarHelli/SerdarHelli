@@ -5,10 +5,10 @@
 
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SerdarHelli&hide=contribs,prs" alt="animated" />
+<!--- <p align="center">
+<> <img src="https://github-readme-stats.vercel.app/api?username=SerdarHelli&hide=contribs,prs" alt="animated" />
 
-</p>
+ <></p> -->
 
 
 - 🎓 I am currently a Master's degree student in Data Science 
