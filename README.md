@@ -18,6 +18,8 @@
 - 📫 How to reach me **s.serdarhelli@gmail.com**
 - 🧑‍🚀 Don't forget your stars !
 
+
+***Open to Remote Work***
 <br/>
 
 <p align="center">
