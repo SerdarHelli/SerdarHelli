@@ -12,7 +12,7 @@
 
 
 - 🎓 I am currently a Master's degree student in Data Science 
-- 🔭 I’m  working on AI - Deep Learning , Image Processing   
+- 🔭 I’m  working on AI - Generative AI , CV, LLMs , 
 - 💬 Ask me about AI! 🐍
 - 👨‍💻 Some of my opensource projects and my papers are available at **https://serdarhelli.github.io/** and **https://linktr.ee/SerdarHelli**
 - 📫 How to reach me **s.serdarhelli@gmail.com**
