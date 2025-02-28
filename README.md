@@ -1,6 +1,6 @@
 <p align="center">   <img src="https://readme-typing-svg.herokuapp.com/?size=25&lines=Welcome+!+I'm+S.Serdar+Helli" alt="animated" /> </p>
 
-<h3 align="center">  I am AI Engineer and  currently a Master's degree student in Data Science. My research interests are AI, Medical Image Processing ,Computer Vision .
+<h3 align="center">  Space Cowboy working on AI .
 </h3>
 
 
