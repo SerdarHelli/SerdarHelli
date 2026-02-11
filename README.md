@@ -11,7 +11,7 @@
 
 - 🔭 I’m  working on AI - Generative AI , CV, LLMs , 
 - 💬 Ask me about AI! 🐍
-- 👨‍💻 Some of my opensource projects and my papers are available at **https://serdarhelli.github.io/** and **https://linktr.ee/SerdarHelli**
+- 👨‍💻 Some of my opensource projects and my papers are available at **https://linktr.ee/SerdarHelli**
 - 📫 How to reach me **s.serdarhelli@gmail.com**
 - 🧑‍🚀 Don't forget your stars !
 
