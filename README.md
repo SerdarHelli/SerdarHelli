@@ -42,7 +42,7 @@
 <img src="https://komarev.com/ghpvc/?username=SerdarHelli" alt="akhilgkrishnan" /> 
  &nbsp;
 </p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=serdarhelli&show_icons=true&locale=en" alt="serdarhelli" /></p>
+<p align="center"><img align="center" src="https://githubcard.com/SerdarHelli.svg" alt="serdarhelli" /></p>
 
 <p align="center">   <img src="https://readme-typing-svg.herokuapp.com/?size=22&lines=See+You+Space+Cowboy+.+.+." alt="animated" /> </p>
 <br/>
